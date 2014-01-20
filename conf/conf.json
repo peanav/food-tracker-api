@@ -1,0 +1,4 @@
+{
+  "mongoUrl": "mongodb://localhost/food-tracker",
+  "PORT": "5050"
+}
